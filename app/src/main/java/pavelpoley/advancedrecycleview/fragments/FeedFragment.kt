@@ -9,7 +9,6 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import kotlinx.android.synthetic.main.fragment_feed.view.*
-
 import pavelpoley.advancedrecycleview.R
 import pavelpoley.advancedrecycleview.adapters.FeedAdapter
 import pavelpoley.model.FeedModel
@@ -24,9 +23,12 @@ class FeedFragment : Fragment() {
 
         var list = getDummyList()
 
+
+
         view.rv_main.layoutManager = LinearLayoutManager(context,LinearLayoutManager.VERTICAL,false)
 
         view.rv_main.adapter = FeedAdapter(context as FragmentActivity,list)
+
 
 
         return view

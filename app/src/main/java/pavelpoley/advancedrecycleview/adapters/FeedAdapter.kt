@@ -30,17 +30,17 @@ class FeedAdapter(frag: FragmentActivity, list: ArrayList<FeedModel>)
 
         if (viewType == TYPE_VERTICAL_FEED_LAYOUT) {
 
-            val horizontalFeed = LayoutInflater.from(parent?.context).inflate(R.layout.horizontal_feed_layout, parent, false)
+            val horizontalFeed = LayoutInflater.from(parent.context).inflate(R.layout.horizontal_feed_layout, parent, false)
             return ViewHolder(horizontalFeed)
 
         } else if (viewType == TYPE_AD_LAYOUT) {
 
-            val adView = LayoutInflater.from(parent?.context).inflate(R.layout.item_feed_ad, parent, false)
+            val adView = LayoutInflater.from(parent.context).inflate(R.layout.item_feed_ad, parent, false)
             return ViewHolder(adView)
 
         } else {
 
-            val view = LayoutInflater.from(parent?.context).inflate(R.layout.item_feed, parent, false)
+            val view = LayoutInflater.from(parent.context).inflate(R.layout.item_feed, parent, false)
             return ViewHolder(view)
         }
 
