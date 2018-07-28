@@ -1,4 +1,4 @@
 # AdvancedRecycleView
-Android template shows how to use RecycleView with multiple view type and inner horizontal recycleView.
+Android template - RecycleView with multiple view types, inner horizontal recycleView and layout animations.
 
 ![Alt Text](https://github.com/pavelpoley/AdvancedRecycleView/blob/master/advanced_recycleview2.gif)
