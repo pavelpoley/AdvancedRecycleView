@@ -9,7 +9,7 @@ import android.view.View
 import android.view.ViewGroup
 import kotlinx.android.synthetic.main.horizontal_feed_layout.view.*
 import pavelpoley.advancedrecycleview.R
-import pavelpoley.model.FeedModel
+import pavelpoley.advancedrecycleview.model.FeedModel
 
 class FeedAdapter(frag: FragmentActivity, list: ArrayList<FeedModel>)
     : RecyclerView.Adapter<RecyclerView.ViewHolder>() {

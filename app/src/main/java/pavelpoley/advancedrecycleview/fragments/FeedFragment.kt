@@ -11,7 +11,7 @@ import android.view.ViewGroup
 import kotlinx.android.synthetic.main.fragment_feed.view.*
 import pavelpoley.advancedrecycleview.R
 import pavelpoley.advancedrecycleview.adapters.FeedAdapter
-import pavelpoley.model.FeedModel
+import pavelpoley.advancedrecycleview.model.FeedModel
 
 
 class FeedFragment : Fragment() {

@@ -5,7 +5,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import pavelpoley.advancedrecycleview.R
-import pavelpoley.model.FeedModel
+import pavelpoley.advancedrecycleview.model.FeedModel
 
 class HorizontalListAdapter(list: ArrayList<FeedModel>) : RecyclerView.Adapter<RecyclerView.ViewHolder>() {
 

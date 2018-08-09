@@ -3,5 +3,4 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:animation="@anim/item_fall_down_anim"
     android:delay="15%"
-    android:animationOrder="normal"
-    />
+    android:animationOrder="normal"/>
