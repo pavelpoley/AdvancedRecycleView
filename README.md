@@ -3,7 +3,7 @@ Android template - RecycleView with multiple view types, inner horizontal recycl
 
 ![Alt Text](https://github.com/pavelpoley/AdvancedRecycleView/blob/master/advanced_recycleview3.gif)
 
-Similar design was implement in real Android app:
+Similar design was implement in my Android app that avaliable in Google Play:
 
 ![Alt Text](https://github.com/pavelpoley/AdvancedRecycleView/blob/master/pets_adoption.png)
 
