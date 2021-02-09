@@ -7,7 +7,10 @@ Similar design was implement in my Android app that avaliable in Google Play:
 
 ![Alt Text](https://github.com/pavelpoley/AdvancedRecycleView/blob/master/pets_adoption.png)
 
-Link:
+Android version:
 https://play.google.com/store/apps/details?id=ppapps.petsapp
+
+iOS version:
+https://apps.apple.com/app/pets-adoption-adopt-dog-cat/id1550927834
 
 
