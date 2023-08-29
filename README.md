@@ -9,6 +9,7 @@ Similar design was implement in my Android app that avaliable in Google Play:
 
 Android version:
 https://play.google.com/store/apps/details?id=ppapps.petsapp
+https://play.google.com/store/apps/details?id=com.pp.checklist
 
 iOS version:
 https://apps.apple.com/app/pets-adoption-adopt-dog-cat/id1550927834
